@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace TodoApi.Models
 {
+    //classe
     public class TodoItem
     {
         public long Id { get; set; }
